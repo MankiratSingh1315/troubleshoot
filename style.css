@@ -1,0 +1,33 @@
+
+body{
+    background-image: url('image/bg.png');
+    background-size:100vw 100vh;
+    
+}
+
+/*Caution :- Size of images is very very large*/
+table{
+    height: 100vh;
+    width: 100vw;
+}
+
+.left,.right{
+    height: 5vh;
+}
+.bts{
+    
+    
+    height: 25vh;
+}
+.helmet{
+    height: 25vh;
+    position: absolute;
+    z-index: -1;
+}
+.vs{
+    position: relative;
+    left: 23vh;
+    top:50px;
+    height:15vh;
+    
+}
