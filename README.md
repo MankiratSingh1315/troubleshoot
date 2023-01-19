@@ -1,4 +1,4 @@
-# # SAIC-Troubleshoot
+# SAIC-Troubleshoot
 
 Repo for game logic and frontend for TroubleShoot 4.0
 
